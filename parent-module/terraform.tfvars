@@ -8,11 +8,6 @@ rgs = {
     name     = "suraj"
     location = "Central India"
   }
-
-   rg3 = {
-    name     = "kapil"
-    location = "Central India"
-  }
 }
 
 
