@@ -6,7 +6,6 @@ crash.log
 crash.*.log
 
 # Terraform variables containing secrets
-*.tfvars
 *.tfvars.json
 
 # Terraform override files

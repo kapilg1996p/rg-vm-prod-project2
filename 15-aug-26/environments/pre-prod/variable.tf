@@ -19,3 +19,11 @@ variable "nic" {
 variable "vm" {
 
 }
+
+variable "kv" {
+
+}
+
+variable "secrets" {
+  default = {}
+}
